@@ -1,0 +1,6 @@
+{
+  "name": "The Rush Way",
+  "description": "Professional fitness coaching and nutrition management operating system for personal trainers and elite athletes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
